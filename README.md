@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Welcome to my GitHub
 
-<!--
-**SDGlover14/SDGlover14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Service Desk Analyst focused on Linux, Raspberry Pi projects, and IT automation. This is my personal GitHub home for learning, experimenting, and tracking my progress in IT.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 What I'm working with
+- Linux (Debian / Ubuntu)
+- IT Support & troubleshooting
+- Raspberry Pi projects
+- Basic automation (Bash / Python)
+
+---
+
+## 🚀 Current focus
+- Building stronger Linux skills
+- Learning system administration fundamentals
+- Experimenting with Raspberry Pi home projects
+- Improving automation and scripting ability
+
+---
+
+## 📁 What you'll find here
+- Personal learning notes
+- Small automation scripts
+- Raspberry Pi experiments
+- IT support / troubleshooting references
+
+---
+
+## 🧠 Goals
+- Move deeper into Linux systems administration
+- Build practical home lab experience
+- Develop automation skills for IT environments
+
+---
+
+## 📫 Notes
+This repo is a work in progress as I build my skills and document what I learn along the way.
