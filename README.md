@@ -1,32 +1,77 @@
-</b> Service Desk Analyst </b>
-Linux | Raspberry Pi | IT Automation
+# ⌨️ Service Desk Analyst 
 
-Digital notebook for my transition from Service Desk into Systems Administration. Currently documenting my home lab experiments and scripting progress.
 
-💻 System Specs & Stack
-🐧 Kernel/OS: Debian, Ubuntu, Raspberry Pi OS
 
-🐚 Scripting: Bash, Python (Basic)
+### Windows | Linux | Raspberry Pi | IT Automation
 
-🛠️ Skills: Troubleshooting, IT Support, Hardware Lab
 
-🔨 Currently Building
-Linux: Hardening system configurations and learning admin fundamentals.
 
-Hardware: Deploying services on Raspberry Pi nodes.
+## 📓 Digital Notebook - Currently documenting my home lab experiments and scripting progress.
 
-Logic: Scripting workflows to automate manual support tasks.
 
-📦 Repository Index
-docs/ — Technical notes and troubleshooting references.
 
-scripts/ — Bash and Python automation snippets.
+### 🔧 What I use
 
-lab/ — Raspberry Pi project configs and setups.
 
-🏁 Milestones
-🥅 Target: Linux Systems Administration.
 
-🧱 Foundation: Building out a robust home lab environment.
+**- OS:** Linux (Debian/Ubuntu) + Windows Enterprise
 
-🏗️ Status: Active learning; documentation updated frequently.
+
+
+**- Hardware:** Raspberry Pi, old laptops/pcs/games consoles
+
+
+
+**- Code:** Bash & Python (the "automate the boring stuff" level)
+
+
+
+### 🔨 What I'm doing
+
+
+
+**- Linux:** Hardening configs and learning actual admin fundamentals.
+
+
+
+**- Windows:** Handling the day-to-day (AD, troubleshooting, OS deployments).
+
+
+
+**- Hardware:** Running services on Pi nodes and local hardware.
+
+
+
+**- Logic:** Writing scripts so I don't have to do the same task twice.
+
+
+
+### 📂 **[Index](https://github.com/SDGlover14)**  
+
+
+
+**- 🗄️ [Notes](https://github.com/SDGlover14/SDGlover14/tree/main/notes)** — troubleshooting refs and stuff i'll forget.
+
+
+
+**- 💾 [Scripts]()** — Simple automation and bash snippets.
+
+
+
+**- ⚗️ [Lab]()** — Raspberry Pi configs and experiment logs.
+
+
+
+### 🏁 Goals
+
+
+
+**- Target:** Moving into a Linux SysAdmin role.
+
+
+
+**- Current:** Building out a solid home lab foundation.
+
+
+
+**- Status:** Work in progress.
