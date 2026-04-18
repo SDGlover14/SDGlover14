@@ -10,7 +10,7 @@
 
 
 
-### 🔧 What I use
+### 🔧 what i use
 
 
 
@@ -26,7 +26,7 @@
 
 
 
-### 🔨 What I'm doing
+### 🔨 what i'm doing
 
 
 
@@ -54,15 +54,15 @@
 
 
 
-**- 💾 [Scripts]()** — Simple automation and bash snippets.
+**- 💾 [Scripts](https://github.com/SDGlover14/SDGlover14/tree/main/scripts)** — Simple automation and bash snippets.
 
 
 
-**- ⚗️ [Lab]()** — Raspberry Pi configs and experiment logs.
+**- ⚗️ [Lab](https://github.com/SDGlover14/SDGlover14/tree/main/lab)** — Raspberry Pi configs and experiment logs.
 
 
 
-### 🏁 Goals
+### 🏁 goals
 
 
 
