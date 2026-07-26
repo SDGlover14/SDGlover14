@@ -12,7 +12,7 @@ I'm using GitHub to document everything properly: clean setups, repeatable build
 - Small automation scripts (Python + Bash)
 
 ## Skills I'm building
-- Linux admin (Raspberry Pi OS / Debian)
+- Linux admin (Debian)
 - Docker & Docker Compose
 - Networking basics and monitoring (Grafana, Prometheus, Pi-hole)
 - Scripting (Python, Bash)
