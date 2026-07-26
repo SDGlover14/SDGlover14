@@ -19,7 +19,7 @@ I'm using GitHub to document everything properly: clean setups, repeatable build
 - Homelab design and documentation
 
 ## Projects
-- **[Pi 5 USB Boot + Homelab] https://github.com/SDGlover14/Raspberry-PI-5 ** — main node running Docker, monitoring, and automation  
+- Pi 5 USB Boot + Homelab} https://github.com/SDGlover14/Raspberry-PI-5 — main node running Docker, monitoring, and automation  
 - **[Pi Zero 2 W VPN]** — WireGuard setup for remote access with DNS fallback
 - **[Pi 1B Pi-hole Rebuild]** — DNS filtering and network analytics (hobby/legacy)
 - **[Network Monitoring Dashboard]** — Grafana + Prometheus  
