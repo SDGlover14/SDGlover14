@@ -1,6 +1,6 @@
 # Hi, I'm Sean.
 
-I work in IT and I'm building a small homelab to sharpen my Linux, networking, and automation skills. Most of my projects run on Raspberry Pis — a Pi 5 (16GB), a Pi Zero 2 W, and a Pi 1B I can't let go of.
+I work in IT and I'm building a small homelab to sharpen my Linux, networking, and automation skills. Most of my projects run on Raspberry Pis — a Pi 5 (16GB), a Pi Zero 2 W, and a Pi 1B
 
 I'm using GitHub to document everything properly: clean setups, repeatable builds, and projects that show my skillset and interests.
 
