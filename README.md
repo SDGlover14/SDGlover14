@@ -1,4 +1,4 @@
-*<ins>Hi, I'm Sean.*</ins>
+*<ins>Hi, I'm Sean.</ins>*
 
 I work in IT and I'm building a homelab to improve my Linux, networking, and automation skills outside of work. Most of it runs on Raspberry Pis, with a Mac M1 and an ASUS X705M (running Ubuntu) handling management and this GitHub.
 
@@ -19,10 +19,10 @@ Scripting (Python, Bash)
 Homelab design and documentation
 
 <ins>**"Devices(Specifically Rapberry Pis)"**</ins>
-Pi 5
-Pi Zero 2 W 
-Pi 1B
+-Pi 5 16gb
+-Pi Zero 2 W 
+-Pi 1B
 
-<ins>**Contact**</ins>
-GitHub: *github.com/SDGlover14*
-Email: *SDGlover14@googlemail.com*
+**<ins>Contact</ins>**
+-GitHub: *github.com/SDGlover14*
+-Email: *SDGlover14@googlemail.com*
