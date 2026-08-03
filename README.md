@@ -1,28 +1,25 @@
-*<ins>Hi, I'm Sean.</ins>*
+# Hi, I'm Sean.
 
-I work in IT and I'm building a homelab to improve my Linux, networking, and automation skills outside of work. Most of it runs on Raspberry Pis, with a Mac M1 and an ASUS X705M (running Ubuntu) handling management and this GitHub.
+IT professional building a homelab to learn Linux, networking, and automation.
 
-I have ADHD, so I use AI to help organize my thoughts and structure my writing — the projects and words are mine. 
-I'm documenting everything here to track progress and show what I've actually built.
+## What I'm working on
+- Pi 5 USB boot rebuild — USB boot to avoid changing the current SD setup
+- Pi Zero 2 W — WireGuard VPN + print server
+- Pi 1B rebuild — dedicated Pi-hole box
+- Small Python / Bash scripts
 
-<ins>**What I'm working on**</ins>
-Pi 5 USB boot rebuild — using USB boot as I didnt have a spare microSD card and wanted to keep my current setup intact
-Pi Zero 2 W — running as a WireGuard VPN + print server
-Pi 1B rebuild — repurposed as a dedicated Pi-hole box
-Small Python/Bash scripts 
+## Skills I'm building
+- Linux admin (Debian / Raspberry Pi OS)
+- Docker & Docker Compose
+- Networking fundamentals and monitoring (Grafana, Prometheus, Pi-hole, WireGuard)
+- Scripting (Python, Bash)
+- Homelab design and documentation
 
-<ins>**Skills I'm building**<ins/>
-Linux admin (Debian / Raspberry Pi OS)
-Docker & Docker Compose
-Networking fundamentals and monitoring (Grafana, Prometheus, Pi-hole, WireGuard)
-Scripting (Python, Bash)
-Homelab design and documentation
+## Devices
+pi-5
+pi-zero-2wh
+pi-1b
 
-<ins>**Devices**</ins>
--Pi 5 16gb
--Pi Zero 2 W 
--Pi 1B
-
-**<ins>Contact</ins>**
--GitHub: *github.com/SDGlover14*
--Email: *SDGlover14@googlemail.com*
+## Contact
+- GitHub: github.com/SDGlover14
+- Email: SDGlover14@googlemail.com
