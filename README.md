@@ -18,7 +18,7 @@ Networking fundamentals and monitoring (Grafana, Prometheus, Pi-hole, WireGuard)
 Scripting (Python, Bash)
 Homelab design and documentation
 
-<ins>**"Devices(Specifically Rapberry Pis)"**</ins>
+<ins>**Devices**</ins>
 -Pi 5 16gb
 -Pi Zero 2 W 
 -Pi 1B
