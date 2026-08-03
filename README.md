@@ -5,22 +5,23 @@ I work in IT and I'm building a homelab to improve my Linux, networking, and aut
 I have ADHD, so I use AI to help organize my thoughts and structure my writing — the projects and words are mine. 
 I'm documenting everything here to track progress and show what I've actually built.
 
-**<ins>What I'm working on**</ins>
+<ins>**What I'm working on**</ins>
 Pi 5 USB boot rebuild — using USB boot as I didnt have a spare microSD card and wanted to keep my current setup intact
-Pi Zero 2 W — running as a WireGuard VPN
+Pi Zero 2 W — running as a WireGuard VPN + print server
 Pi 1B rebuild — repurposed as a dedicated Pi-hole box
-Small Python/Bash scripts to automate the boring bits
-Skills I'm building
+Small Python/Bash scripts 
+
+<ins>**Skills I'm building**<ins/>
 Linux admin (Debian / Raspberry Pi OS)
 Docker & Docker Compose
 Networking fundamentals and monitoring (Grafana, Prometheus, Pi-hole, WireGuard)
 Scripting (Python, Bash)
 Homelab design and documentation
 
-<ins>**Devices**</ins>
-Pi 5 USB Boot
-Pi Zero 2 W VPN
-Pi 1B Pi-hole Rebuild
+<ins>**"Devices(Specifically Rapberry Pis)"**</ins>
+Pi 5
+Pi Zero 2 W 
+Pi 1B
 
 <ins>**Contact**</ins>
 GitHub: *github.com/SDGlover14*
