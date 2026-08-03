@@ -16,9 +16,9 @@ IT professional building a homelab to learn Linux, networking, and automation.
 - Homelab design and documentation
 
 ## Devices
-pi-5
-pi-zero-2wh
-pi-1b
+- pi-5
+- pi-zero-2wh
+- pi-1b
 
 ## Contact
 - GitHub: github.com/SDGlover14
