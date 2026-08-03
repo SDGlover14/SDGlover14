@@ -1,31 +1,27 @@
-# Hi, I'm Sean.
+*<ins>Hi, I'm Sean.*</ins>
 
-I work in IT and I'm building a small homelab to sharpen my Linux, networking, and automation skills. Most of my projects run on Raspberry Pis — a Pi 5 (16GB), a Pi Zero 2 W, and a Pi 1B
+I work in IT and I'm building a homelab to improve my Linux, networking, and automation skills outside of work. Most of it runs on Raspberry Pis, with a Mac M1 and an ASUS X705M (running Ubuntu) handling management and this GitHub.
 
-I'm using GitHub to document everything properly: clean setups, repeatable builds, and projects that show my skillset and interests.
+I have ADHD, so I use AI to help organize my thoughts and structure my writing — the projects and words are mine. 
+I'm documenting everything here to track progress and show what I've actually built.
 
-## What I'm working on
-- Pi 5 USB boot setup and rebuild — main node for Docker, monitoring, and automation
-- Docker containers for monitoring and network tools
-- Pi Zero 2 W as a WireGuard VPN and lightweight service node (with DNS fallback)
-- Pi 1B rebuild for Pi-hole and DNS logging (hobby project with fallback support)
-- Small automation scripts (Python + Bash)
+**<ins>What I'm working on**</ins>
+Pi 5 USB boot rebuild — using USB boot as I didnt have a spare microSD card and wanted to keep my current setup intact
+Pi Zero 2 W — running as a WireGuard VPN
+Pi 1B rebuild — repurposed as a dedicated Pi-hole box
+Small Python/Bash scripts to automate the boring bits
+Skills I'm building
+Linux admin (Debian / Raspberry Pi OS)
+Docker & Docker Compose
+Networking fundamentals and monitoring (Grafana, Prometheus, Pi-hole, WireGuard)
+Scripting (Python, Bash)
+Homelab design and documentation
 
-## Skills I'm building
-- Linux admin (Debian/Raspberry Pi OS)
-- Docker & Docker Compose
-- Networking basics and monitoring (Grafana, Prometheus, Pi-hole, WireGuard)
-- Scripting (Python, Bash)
-- Homelab design and documentation
+<ins>**Devices**</ins>
+Pi 5 USB Boot
+Pi Zero 2 W VPN
+Pi 1B Pi-hole Rebuild
 
-## Projects
-- Pi 5 USB Boot + Homelab https://github.com/SDGlover14/Raspberry-PI-5 — main node running Docker, monitoring, and automation  
-- **[Pi Zero 2 W VPN]** — WireGuard setup for remote access with DNS fallback
-- **[Pi 1B Pi-hole Rebuild]** — DNS filtering and network analytics (hobby/legacy)
-- **[Network Monitoring Dashboard]** — Grafana + Prometheus  
-- **[Automation Scripts Hub]** — small tools for checks, backups, and system tasks
-
-## Contact
-If you want to reach out or check out more of my stuff:
-- GitHub: github.com/SDGlover14
-- Email: SDGlover14@googlemail.com
+<ins>**Contact**</ins>
+GitHub: *github.com/SDGlover14*
+Email: *SDGlover14@googlemail.com*
