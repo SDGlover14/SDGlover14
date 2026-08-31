@@ -1,6 +1,6 @@
 # Hi, I'm Sean.
 
-IT professional building a homelab to learn Linux, networking, and automation.
+IT professional building a homelab to learn Linux, networking, and automation. This page is still a WIP, any broken links will be updated asap. 
 
 ## What I'm working on
 - [Pi 5 USB boot rebuild](https://github.com/SDGlover14/pi-5) — *USB boot to avoid changing the current SD setup* 
@@ -21,5 +21,5 @@ IT professional building a homelab to learn Linux, networking, and automation.
 - [pi-1b]()
 
 ## Contact
-- [GitHub:](https://github.com/SDGlover14) 
+- [GitHub](https://github.com/SDGlover14) 
 - Email: SDGlover14@googlemail.com
